@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "dev": "nodemon --exec babel-node index.js"
+    "dev": "nodemon --exec babel-node index.js",
+    "prod": "node --exec babel-node index.js"
+
   },
   "dependencies": {
     "body-parser": "^1.18.3",
