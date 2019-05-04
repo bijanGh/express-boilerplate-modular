@@ -15,7 +15,7 @@ app.listen(process.env.API_PORT, () =>
       `
       Yep this is working 🍺
       App listen on port: ${process.env.API_PORT} 🍕
-      you are fucking awsome 🦄
+      you are AWESOME !!! 🦄
     `
     )
   )

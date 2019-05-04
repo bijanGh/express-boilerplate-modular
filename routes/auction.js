@@ -3,7 +3,7 @@ import AuctionCtrl from '../controllers/auction'
 
 const router = Router()
 router.get('/', async (req, res) => {
-  res.send('hello bitches')
+  res.send('hello; today is today, did you know that????!!')
 })
 
 router.get(`/allAuctions`, AuctionCtrl.getAllAuctions)

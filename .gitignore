@@ -57,3 +57,5 @@ typings/
 .yarn-integrity
 .idea
 generated
+
+yarn.lock
