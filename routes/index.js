@@ -1,13 +1,9 @@
 import { Router } from 'express'
-import product from './product'
-import auction from './auction'
-import user from './user'
+import blank from './blank'
 
 const router = Router()
 
 // Add Routes
-router.use(product)
-router.use(auction)
-router.use(user)
+router.use(blank)
 
 export default router
