@@ -1,7 +1,7 @@
 {
   "scripts": {
     "dev": "nodemon --exec babel-node index.js",
-    "prod": "npx babel-node index.js"
+    "prod": "babel-node index.js"
 
   },
   "dependencies": {
